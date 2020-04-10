@@ -1,0 +1,17 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "Cscss": "http-server -p 8081"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Romjan D. Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
